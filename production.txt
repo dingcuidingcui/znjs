@@ -1,0 +1,6 @@
+1. 这个版本可以在手机上运行，在config.js中修改了host:'localhost'为   host:'192.168.0.104'
+
+2. 这个版本存在的问题是：打包之后search.vue ，book.vue 里面的带有额，   elementUI样式的布局乱了，还没有解决。
+
+
+3. 登录页面还没有写。
